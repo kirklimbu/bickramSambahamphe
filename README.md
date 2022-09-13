@@ -1,5 +1,6 @@
 
-<h1> Hi, I'm Bickram </h1>
+<h1> Hi, I'm Bickram &#128075;
+</h1>
 
 
 I am a front-end/Angular developer with a strong interest in building projects that are accessible to everyone.
