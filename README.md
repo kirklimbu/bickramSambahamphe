@@ -1,5 +1,5 @@
 
-<h1> Hi, I'm Bickram &#128075;
+<h1> Hi, I'm Bickram <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 </h1>
 
 
