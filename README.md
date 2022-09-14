@@ -19,8 +19,7 @@ You can find me here 👇
 💻 Skills
 
 <section align="center">
- <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=red
-" alt="Angular">
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 " alt="Typescript">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
@@ -29,7 +28,8 @@ You can find me here 👇
 <img src="https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
 <img src="https://img.shields.io/badge/-JavaScript-white?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
 <img src="https://img.shields.io/badge/-Git-white?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
- <img src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
+<img src="https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
+
 </section>
 
 ### I have also worked with
@@ -48,8 +48,6 @@ You can find me here 👇
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 " alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white
-" alt="jira">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
 " alt="jira">
 
 </section>
