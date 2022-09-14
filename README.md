@@ -53,8 +53,7 @@ You can find me here 👇
   <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" alt="mocha">
   <img src="https://img.shields.io/badge/-Cypress-FADDC6?logo=cypress&logoColor=17202C&style=for-the-badge&logoWidth=30" alt="Cypress">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-" alt="express js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express js">
 
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter">
   <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
